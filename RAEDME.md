@@ -1,7 +1,12 @@
 
 
 ```python
+##This is the Pyber Homework for my Data Analytics class##
+##We are observing data from a fictional ride sharing company##
+## I am to make some inights from the data after making some graphs and charts using: Matplotlib, Pyplot and Seaborn##
+
 ## 3 observations at the end##
+
 ```
 
 
